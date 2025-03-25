@@ -1,0 +1,33 @@
+.title{
+    font-family: Arial, sans-serif;
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px;
+}
+#p-intro{
+    font-size: 18px;
+    color: #34495e;
+    padding: 10px;
+    margin: 20px;
+    border-left: 4px solid#3498db;
+}
+.styled-image{
+    width: 300px;
+    border-radius: 10px;
+    display:block;
+    margin:20px auto;
+}
+body{
+    background-color: #f8f9fa;
+    font-family: Verdana, sans-serif;
+    line-height:1.6;
+    padding:20px;
+}
+footer{
+    width:100%;
+    text-align: center;
+    background-color: grey;
+    position: relative;
+    bottom: 0;
+    color: white;
+}
